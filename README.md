@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Fokus é uma ferramenta criada com base no método pomodoro.
 
-- [Acesse o projeto finalizado, online](https://murielzounar.github.io/ztlinks/)
+- [Acesse o projeto finalizado, online](https://murielzounar.github.io/fokus/)
 
 ## 🎓 Aprendizado
 
