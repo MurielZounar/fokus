@@ -1,7 +1,7 @@
 <h1 align="center">Fokus</h1>
 
 <p align="center">
-  <img alt="projeto fokus" src=".github/preview.png" width="100%">
+  <img alt="projeto fokus" src=".github/capa_foku_github.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
